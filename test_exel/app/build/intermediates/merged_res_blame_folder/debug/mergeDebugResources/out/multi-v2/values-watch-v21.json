@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.learn.test_exel.app-mergeDebugResources-57:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "E:\\Androidgradle\\caches\\9.1.0\\transforms\\5dfbb1a19f318eda3058f01510b3d67b\\workspace\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#003C79</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">test_exel</string>
+    <string name="default_web_client_id" translatable="false">189454058374-3krep1qqov7efb7buvcthj4gi8dfk128.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mmogg-66764-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">189454058374</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsby7OzEwlYTPP5AM-9r0BA2riF-yvqIU</string>
+    <string name="google_app_id" translatable="false">1:189454058374:android:bb4fb08e4339d2e2d2a207</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsby7OzEwlYTPP5AM-9r0BA2riF-yvqIU</string>
+    <string name="google_storage_bucket" translatable="false">mmogg-66764.firebasestorage.app</string>
+    <string name="project_id" translatable="false">mmogg-66764</string>
+    <style name="Theme.Test_exel" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
