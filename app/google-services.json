@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "189454058374",
+    "firebase_url": "https://mmogg-66764-default-rtdb.firebaseio.com",
+    "project_id": "mmogg-66764",
+    "storage_bucket": "mmogg-66764.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189454058374:android:0c345671aaec1228d2a207",
+        "android_client_info": {
+          "package_name": "com.learn.robmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189454058374-3krep1qqov7efb7buvcthj4gi8dfk128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsby7OzEwlYTPP5AM-9r0BA2riF-yvqIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189454058374-3krep1qqov7efb7buvcthj4gi8dfk128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189454058374:android:bb4fb08e4339d2e2d2a207",
+        "android_client_info": {
+          "package_name": "com.learn.test_exel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189454058374-3krep1qqov7efb7buvcthj4gi8dfk128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsby7OzEwlYTPP5AM-9r0BA2riF-yvqIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189454058374-3krep1qqov7efb7buvcthj4gi8dfk128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
